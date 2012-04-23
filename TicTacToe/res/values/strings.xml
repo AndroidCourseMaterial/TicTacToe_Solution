@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, TicTacToeActivity!</string>
+    <string name="hello">Hello World, Tic Tac Toe!</string>
     <string name="app_name">TicTacToe</string>
+    <string name="new_game">New Game</string>
     <string name="x_turn">X\'s Turn</string>
     <string name="o_turn">O\'s Turn</string>
     <string name="x_win">X Wins!</string>
